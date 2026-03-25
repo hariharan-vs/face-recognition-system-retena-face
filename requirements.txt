@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+retina-face
+keras-facenet
+numpy
+pandas
+openpyxl
+tensorflow
+onnxruntime
+tf-keras
+# optional: secondary detector via `face_recognition` (requires Visual C++ Build Tools to compile dlib)
+# To use it install manually: pip install face_recognition
